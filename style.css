@@ -1,0 +1,9 @@
+body{
+    font-family: Arial;
+    background: lightpink;
+    padding: 20px;
+}
+
+input{
+    background-color: rgb(255, 224, 228);
+}
